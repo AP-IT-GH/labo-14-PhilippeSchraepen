@@ -423,3 +423,22 @@ Deze functie geeft de som van de getallen in de array terug.
 ### voorbeeldinteractie
 
 ![voorbeeldinteractie](./voorbeeldinteractie-array-sum-functie.png)
+
+## Oefening 14: Fibonacci-reeks
+
+### Leerdoelen
+
+- Werken met loops
+- Werken met arrays
+- Variabelen declareren met let en const
+
+### Functionele analyse
+
+Je programma genereert de eerste N getallen van de Fibonacci-reeks op basis van een hardcoded waarde.
+
+### Technische analyse
+
+- Declareer een const `numberOfGeneratedNumbers` (het aantal te genereren getallen voor het programma stopt) en ken hier een getal aan toe.
+- Gebruik een array om de Fibonacci-getallen op te slaan.
+- Gebruik een loop om de reeks op te bouwen.
+- Print de reeks uit in de console.
